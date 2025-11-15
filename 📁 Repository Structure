@@ -1,0 +1,37 @@
+universal-python-projects/
+│
+├── web-dev/
+│   ├── fastapi-app/
+│   │   └── main.py
+│   ├── flask-app/
+│   │   └── app.py
+│   └── django-project/
+│       ├── manage.py
+│       └── django_project/
+│
+├── data-science/
+│   ├── data/
+│   ├── notebooks/
+│   │   └── analysis.ipynb
+│   ├── pandas_examples.py
+│   └── visualization.py
+│
+├── machine-learning/
+│   ├── sklearn-classifier/
+│   │   └── train.py
+│   ├── pytorch-model/
+│   │   └── model.py
+│   └── huggingface-nlp/
+│       └── sentiment.py
+│
+├── automation/
+│   ├── web_scraper.py
+│   ├── file_automation.py
+│   └── github_actions_example/
+│       └── workflow-demo.yml
+│
+├── tests/
+│   └── test_sample.py
+│
+├── requirements.txt
+└── README.md
